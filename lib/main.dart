@@ -98,7 +98,7 @@ class MyApp extends StatelessWidget {
                       title: Column(
                         children: [
                           Text(
-                            'リストを作る方法',
+                            'まさひろ',
                             style: TextStyle(
                               fontWeight: FontWeight.w500,
                             ),
